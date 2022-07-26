@@ -105,7 +105,9 @@ rm -r drinks
 
 
 ### Step 5
-
+git remote add origin https://github.com/rcraver2010/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
